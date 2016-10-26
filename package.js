@@ -1,7 +1,7 @@
 Package.describe({
   name: 'gabdsg:reactive-fullcalendar',
   summary: "Meteor Reactive - Fullcalendar.io v3.0.1",
-  version: "1.0.2",
+  version: "1.0.34",
   git: "https://github.com/gabdsg/reactive-fullcalendar.git",
   documentation: 'README.md'  
 });
