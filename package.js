@@ -15,7 +15,6 @@ Package.onUse(function(api) {
   api.addFiles([
       'fullcalendar.min.js',
       'fullcalendar.min.css',
-      'lang-all.js',
       'locale-all.js',
       'gcal.js',
       'reactive-fullcalendar.js',
