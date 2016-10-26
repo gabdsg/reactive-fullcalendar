@@ -1,7 +1,7 @@
 Package.describe({
-  summary: "Meteor Reactive - Full-sized drag & drop event calendar (jQuery plugin - v2.1.1)",
+  summary: "Meteor Reactive - Fullcalendar.io v3.0.1",
   version: "1.0.0",
-  git: "https://github.com/gquemart/meteor-reactive-fullcalendar.git"
+  git: "https://github.com/gabdsg/reactive-fullcalendar.git"
 });
 
 Package.onUse(function(api) {
@@ -14,6 +14,7 @@ Package.onUse(function(api) {
       'fullcalendar.min.js',
       'fullcalendar.min.css',
       'lang-all.js',
+      'locale-all.js',
       'gcal.js',
       'reactive-fullcalendar.js',
       'reactive-fullcalendar-template.html',
